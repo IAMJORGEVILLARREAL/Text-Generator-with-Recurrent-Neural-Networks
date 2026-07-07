@@ -16,7 +16,9 @@ The system downloads a literature dataset, cleans the text, and vectorizes it in
 * Adjustable Creativity Dial: Uses temperature calculations to alter text randomness during inference.
 * Automated Workflow: Fetches data, tokenizes, trains, saves the model file, and outputs text samples.
 
-## How to Setup and Run## 1. Installation
+## How to Setup and Run
+
+## 1. Installation
 Clone the repository and install the required dependencies using your command terminal:
 
 python -m pip install tensorflow numpy
